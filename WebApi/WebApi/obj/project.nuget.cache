@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "80m111ctFhL6WU52p+DACBzeyGU9TdOVkhIRaGBDTpZd7odEYmQiyvaLqmT6g2q+qW+Xiflve0796WgGpwEjVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\itcdnfs08\\Desktop\\HouseBooking\\WebApi\\WebApi\\WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\itcdnfs08\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}
